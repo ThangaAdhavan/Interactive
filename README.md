@@ -71,9 +71,6 @@ Publish the website in the given URL.
             <h1 style="font-size:70px;color:greenyellow;font-style:oblique;line-break: anywhere;">UI</h1>
             <img src="C:\Users\Adhavan\Interactive\imagegallery\imageapp\static\7346e10d-100b-4468-9b12-540db1ece6b8.jpg" height="600px" width="525px">
         </div>
-        <div style="display: inline-block; margin-right: 150px;" onclick="openModal(this)">
-            <iframe src="https://assets.pinterest.com/ext/embed.html?id=110901209570322183" height="560" width="345" frameborder="0" scrolling="no" >H</iframe>
-        </div>
     </div>
 
     <div id="modal" style="display: none; position: fixed; z-index: 1; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.9);">
